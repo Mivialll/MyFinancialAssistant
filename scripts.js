@@ -11,7 +11,6 @@ $("document").ready(function(){
 		function money(salary, loan, years, expenses) {
 		    return salary - loan / years - expenses;
 		}
-
 		
 		function valid()
 		{
@@ -21,4 +20,7 @@ $("document").ready(function(){
 			return false;
 		}
 
-})});
+	}
+	)
+}
+);
