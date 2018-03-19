@@ -4,4 +4,4 @@ The website created for college students to manage their finances, note taking, 
 
 calculator and online resources management system are provided
 
-RRSP and RESP will be built for students' future planning
+RRSP and RESP will be\ built for students' future planning
