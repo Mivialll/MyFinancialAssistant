@@ -1,4 +1,4 @@
-##My Finance Assistant
+##My Finance Assistant##
 
 The website created for college students to manage their finances, note taking, year-planning
 
